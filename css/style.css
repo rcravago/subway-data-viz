@@ -1,0 +1,112 @@
+body {
+     color: rgb(150, 150, 150);
+     font-size: 12px;
+     line-height: 1.4;
+     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+     margin: 0;
+     padding: 0;
+     background-color: rgb(38, 38, 34);
+}
+#text {
+     width: 30%;
+     height: auto;     
+     float: left;
+     margin-left: 5%;
+}
+h1 {
+     font-size:125px;
+     margin-top: -1%;
+     margin-left: 5%;
+}
+h2 {
+     font-size: 24px;
+     font-weight: lighter;
+     margin-top: -34%;
+     margin-left: 37%;
+}
+h3 {
+     font-size: 21px;
+     margin-top: 7%;
+     margin-left: 10%;   
+}
+ul {
+     font-size: 21px;
+     list-style-type: none;
+     margin-top: -5%;
+     margin-left: -1%;
+}
+ul li:nth-child(1) {
+     color: rgb(193, 39, 45);
+}
+ul li:nth-child(2) {
+     color: pink;
+}
+ul li:nth-child(3) {
+     color: rgb(102, 45, 145);
+}
+ul li:nth-child(4) {
+     color: rgb(252, 238, 33);
+}
+ul li:nth-child(5) {
+     color: green;
+}
+ul li:nth-child(6) {
+     color: rgb(150, 150, 150);
+}
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+p.note {
+     font-size: 10px;
+     margin-top: -6%;
+     margin-left: 10%;
+}
+p.about1 {
+     font-size: 12px;
+     margin-top: -5%;
+     margin-left: 10%;
+}
+p.about2 {
+     font-size: 12px;
+     margin-top: 2%;
+     margin-left: 10%;    
+}
+ol {
+     font-size: 12px;
+     margin-top: -3%;
+     margin-left: 5%;
+}
+a {
+     color: rgb(150, 150, 150);
+}
+a:hover {
+     color: white;
+}
+#canvas {
+     float: right;
+     width: 70%;
+     height: auto;
+     margin-right: -9%;
+     margin-top: 2.5%;
+}
+canvas {
+     width: 80%;
+     border-style: groove;
+     border-width: 1px;
+}
+footer {
+     clear: both;
+     text-align: center;
+     font-size: 1em;
+     padding: 10px;
+}
+img {
+     width: 1%;
+}
+
+
+
+
